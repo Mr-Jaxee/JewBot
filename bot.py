@@ -69,4 +69,4 @@ async def help(ctx):
     emb.add_field(name='Паспорт', value = 'Показывает ваш или не ваш паспорт')
     await ctx.send(embed = emb)
 
-bot.run('OTE1MzE3NDE5NjE3MTYxMzE3.YaZ1xg.ERkRbd6WZRlF57_1KLAvwP8WijU')
+bot.run('TOKEN')
